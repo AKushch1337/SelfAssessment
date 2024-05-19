@@ -27,12 +27,12 @@
   - RecyclerView: 🙋 explained
   - ListView: 🙋 explained
   - ScrollView: 🙋 explained
-  - CardView: 🎓 known
-  - AppBar: 🎓 known
-  - Custom views: 🎓 known
+  - CardView: u
+  - AppBar: u
+  - Custom views: u
   - Material Design components: 🙋 explained
   - Themes and styles: 🙋 explained
-  - Animations and transitions: e: 🎓 known
+  - Animations and transitions: e: u
 - Intents and Broadcast Receivers
   - Explicit intents: 🙋 explained
   - Implicit intents: 🙋 explained
@@ -56,7 +56,7 @@
   - JSONObject: 🙋 explained
   - Gson: 🙋 explained
   - AsyncTask: 🎓 known
-  - Threading: 🎓 known
+  - Threading: u
   - Background services: 🎓 known
 - Services and Background Tasks
   - Service lifecycle: 🙋 explained
@@ -64,7 +64,7 @@
   - JobScheduler: 👂 heard
   - WorkManager: 👂 heard
   - BroadcastReceiver: 🖐️ used
-  - AlarmManager: 👂 heard
+  - AlarmManager: k
   - Foreground services: 🖐️ used
 - Permissions
   - Runtime permissions: 🙋 explained
@@ -74,7 +74,7 @@
   - Playing audio: 🖐️ used
   - Playing video: 🖐️ used
   - Recording audio: 🎓 known
-  - Camera API: 👂 heard
+  - Camera API: k
   - ExoPlayer: 👂 heard
 - Location and Maps
   - Google Maps API: 🎓 known
@@ -84,9 +84,9 @@
 - Notifications
   - Notification channels: 🎓 known
   - Building notifications: 🎓 known
-  - Notification actions: 👂 heard
-  - Notification styles: 👂 heard
-  - Heads-up notifications: 👂 heard
+  - Notification actions: k
+  - Notification styles: k
+  - Heads-up notifications: k
 - Firebase Integration
   - Firebase Authentication: 🖐️ used
   - Firebase Realtime Database: 🖐️ used
@@ -110,8 +110,8 @@
   - Room: 🖐️ used
   - CameraX: 👂 heard
 - Jetpack Compose
-  - State hoisting: 👂 heard
-  - CompositionLocal: 👂 heard
+  - State hoisting: k
+  - CompositionLocal: k
   - remember: 🙋 explained
   - LaunchedEffect: 🙋 explained
   - Row: 🙋 explained
@@ -121,18 +121,18 @@
   - LazyRow: 🙋 explained
   - Layout: 🙋 explained
   - Navigation: 🙋 explained
-  - Animation: 👂 heard
-  - Transition: 👂 heard
+  - Animation: k
+  - Transition: k
   - Theming: 🖐️ used
   - Fonts: 🙋 explained
   - Generic Modifiers: 👂 heard
   - Gesture Modifiers: 👂 heard
 - Advanced Topics
-  - Architecture components
+  - Architecture components k
   - MVVM: 🙋 explained
   - MVI: 🎓 known
   - MVP: 🎓 known
   - ProGuard and R8: 👂 heard
-  - Performance optimization: 👂 heard
+  - Performance optimization: k
   - App bundles: 👂 heard
   - Custom ROMs and rooting: 👂 heard

@@ -2,11 +2,11 @@
 
 - Theory and concepts
   - Data types: 🙋 explained
-  - Performance tuning: 🎓 known
+  - Performance tuning: k
   - Migrations: 🎓 known
   - Schema versioning: 👂 heard
-  - Backup and recovery: 👂 heard
-  - Database scalability: 👂 heard
+  - Backup and recovery: k
+  - Database scalability: k
   - Relational databases: 🙋 explained
   - Key-value store: 🙋 explained
   - Tuple store: 🎓 known
@@ -17,10 +17,10 @@
   - Hierarchical databases: 🎓 known
   - In-memory databases: 🎓 known
   - Inverted index: 🎓 known
-  - Data control language (DCL): 👂 heard
-  - Data definition language (DDL): 👂 heard
-  - Data manipulation language (DML): 👂 heard
-  - Data query language (DQL): 👂 heard
+  - Data control language (DCL): k
+  - Data definition language (DDL): k
+  - Data manipulation language (DML): k
+  - Data query language (DQL): k
 - Relational
   - Entity-Relationship Diagram: 🙋 explained
   - Normal forms: 🙋 explained
@@ -72,7 +72,7 @@
 - Engines
   - PostgreSQL: 👂 heard
   - Oracle: 🖐️ used
-  - MySQL: 👂 heard
+  - MySQL: u
   - MariaDB: 👂 heard
   - MS SQL Server: 👂 heard
   - Redis: 👂 heard
@@ -88,7 +88,7 @@
   - Data warehousing: 👂 heard
   - Business intelligence: 👂 heard
   - Big data: 👂 heard
-  - Data analysis: 👂 heard
+  - Data analysis: k
   - AI tools: 👂 heard
-  - Cloud databases: 👂 heard
-  - Data Visualization: 👂 heard
+  - Cloud databases: k
+  - Data Visualization: k
