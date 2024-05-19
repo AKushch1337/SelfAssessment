@@ -1,91 +1,91 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming e
-  - Imperative programming e
-  - Structured programming e
-  - Non-structured programming e
-  - Functional programming e
-  - Prototype-based programming e
-  - Object-oriented programming e
-  - Object-based programming e
-  - Generic programming e
-  - Concurrent computing e
-  - Asynchronous programming u
-  - Parallel programming u
-  - Reactive programming k
-  - Functional-reactive (FRP) h
-  - Automata-based programming h
-  - Domain-specific languages h
-  - Multi-paradigm programming h
-  - Metaprogramming h
-  - Actor model h
-  - Lambda calculus h
-  - Black box h
-  - Information hiding h
-  - Aspect-oriented programming h
-  - Anemic domain model h
-  - Class composition k
+  - Procedural programming: 🙋 explained
+  - Imperative programming: 🙋 explained
+  - Structured programming: 🙋 explained
+  - Non-structured programming: 🙋 explained
+  - Functional programming: 🙋 explained
+  - Prototype-based programming: 🙋 explained
+  - Object-oriented programming: 🙋 explained
+  - Object-based programming: 🙋 explained
+  - Generic programming: 🙋 explained
+  - Concurrent computing: 🙋 explained
+  - Asynchronous programming: 🖐️ used
+  - Parallel programming: 🖐️ used
+  - Reactive programming: 🎓 known
+  - Functional-reactive (FRP): 👂 heard
+  - Automata-based programming: 👂 heard
+  - Domain-specific languages: 👂 heard
+  - Multi-paradigm programming: 👂 heard
+  - Metaprogramming: 👂 heard
+  - Actor model: 👂 heard
+  - Lambda calculus: 👂 heard
+  - Black box: 👂 heard
+  - Information hiding: 👂 heard
+  - Aspect-oriented programming: 👂 heard
+  - Anemic domain model: 👂 heard
+  - Class composition: 🎓 known
 - OOP basics
-  - Constructor e
-  - Operator `new` e
-  - Static method e
-  - Method e
-  - Async method e
-  - Getters, Setters e
-  - Public fields e
-  - Private fields e
-  - Field declarations e
-  - Inheritance e
-  - Parent class e
-  - Polymorphism e
-  - Abstract class e
-  - Interface e
-  - Encapsulation e
-  - Hidden class e
-  - Object form e
-  - Instance e
-  - Introspection e
-  - Reflection e
-  - The diamond problem e
+  - Constructor: 🙋 explained
+  - Operator `new`: 🙋 explained
+  - Static method: 🙋 explained
+  - Method: 🙋 explained
+  - Async method: 🙋 explained
+  - Getters, Setters: 🙋 explained
+  - Public fields: 🙋 explained
+  - Private fields: 🙋 explained
+  - Field declarations: 🙋 explained
+  - Inheritance: 🙋 explained
+  - Parent class: 🙋 explained
+  - Polymorphism: 🙋 explained
+  - Abstract class: 🙋 explained
+  - Interface: 🙋 explained
+  - Encapsulation: 🙋 explained
+  - Hidden class: 🙋 explained
+  - Object form: 🙋 explained
+  - Instance: 🙋 explained
+  - Introspection: 🙋 explained
+  - Reflection: 🙋 explained
+  - The diamond problem: 🙋 explained
 - GRASP
-  - Information expert k
-  - Creator k
-  - Controller k
-  - Indirection k
-  - Low coupling k
-  - High cohesion k
-  - Protected variations k
-  - Pure fabrication k
+  - Information expert: 🎓 known
+  - Creator: 🎓 known
+  - Controller: 🎓 known
+  - Indirection: 🎓 known
+  - Low coupling: 🎓 known
+  - High cohesion: 🎓 known
+  - Protected variations: 🎓 known
+  - Pure fabrication: 🎓 known
 - SOLID
-  - Single-responsibility principle (SRP) k
-  - Open–closed principle (OCP) k
-  - Liskov substitution principle (LSP) k
-  - Interface segregation principle (ISP) k
-  - Dependency inversion principle (DIP) k
+  - Single-responsibility principle (SRP): 🎓 known
+  - Open–closed principle (OCP): 🎓 known
+  - Liskov substitution principle (LSP): 🎓 known
+  - Interface segregation principle (ISP): 🎓 known
+  - Dependency inversion principle (DIP): 🎓 known
 - Patterns
-  - Singleton u
-  - Factory Method u
-  - Abstract Factory u
-  - Adapter u
-  - Observer k
-  - Strategy k
-  - Facade h
-  - Proxy k
-  - Chain of Responsibility h
-  - Command k
-  - Iterator k
-  - State k
-  - Bridge k
-  - Builder k
-  - Prototype k
-  - Composite k
-  - Decorator h
-  - Flyweight h
-  - Mediator h
-  - Memento h
-  - Template Method h
-  - Visitor h
-  - Reactor h
-  - Active object h
-  - Delegation h
+  - Singleton: 🖐️ used
+  - Factory Method: 🖐️ used
+  - Abstract Factory: 🖐️ used
+  - Adapter: 🖐️ used
+  - Observer: 🎓 known
+  - Strategy: 🎓 known
+  - Facade: 👂 heard
+  - Proxy: 🎓 known
+  - Chain of Responsibility: 👂 heard
+  - Command: 🎓 known
+  - Iterator: 🎓 known
+  - State: 🎓 known
+  - Bridge: 🎓 known
+  - Builder: 🎓 known
+  - Prototype: 🎓 known
+  - Composite: 🎓 known
+  - Decorator: 👂 heard
+  - Flyweight: 👂 heard
+  - Mediator: 👂 heard
+  - Memento: 👂 heard
+  - Template Method: 👂 heard
+  - Visitor: 👂 heard
+  - Reactor: 👂 heard
+  - Active object: 👂 heard
+  - Delegation: 👂 heard

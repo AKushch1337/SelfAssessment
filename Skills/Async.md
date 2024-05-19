@@ -1,11 +1,11 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop e
-  - `try..catch` e
-  - Non-blocking h
-  - Async I/O k
-  - Thread pool k
+  - Event loop: 🙋 explained
+  - `try..catch`: 🙋 explained
+  - Non-blocking: 👂 heard
+  - Async I/O: 🎓 known
+  - Thread pool: 🎓 known
   - Pattern Reactor
   - CAS operations
   - epoll
@@ -14,32 +14,32 @@
   - Event ports
   - libuv
   - Race conditions
-  - Dead locks k
-  - Live locks k
-  - Concurrent programming k
-  - Parallel programming k
-  - Actor Model k
-  - Thread k
-  - Process k
+  - Dead locks: 🎓 known
+  - Live locks: 🎓 known
+  - Concurrent programming: 🎓 known
+  - Parallel programming: 🎓 known
+  - Actor Model: 🎓 known
+  - Thread: 🎓 known
+  - Process: 🎓 known
 - Async contracts
-  - Callbacks k
+  - Callbacks: 🎓 known
   - Callback-last-error-first
   - Thenable
-  - Promise k
-  - Async/await k
+  - Promise: 🎓 known
+  - Async/await: 🎓 known
   - Future
   - Deferred
   - Sync generator
   - Async Generator
   - Async Iterator
   - Event
-  - Coroutine k
+  - Coroutine: 🎓 known
   - Goroutine
-  - Signal k
-  - Stream k
+  - Signal: 🎓 known
+  - Stream: 🎓 known
   - Chain of responsibility
   - Middleware
-  - Locks k
+  - Locks: 🎓 known
 - Async adapters and utils
   - callbackify
   - promisify
@@ -55,9 +55,9 @@
   - Async Pool
   - Async Queue
   - Async Collector
-  - Semaphore k
-  - Mutex k
-  - Spin Lock k
+  - Semaphore: 🎓 known
+  - Mutex: 🎓 known
+  - Spin Lock: 🎓 known
 - JavaScript & Node.js specific
   - Timers
   - `setImmediate`

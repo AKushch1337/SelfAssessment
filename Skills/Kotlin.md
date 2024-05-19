@@ -64,7 +64,7 @@
   - Mutable & immutable classes: 🙋 explained
   - Enum classes: 🙋 explained
   - Class `Any`: 🙋 explained
-  - Operator overloading: e
+  - Operator overloading: 🙋 explained
   - Data classes: 🙋 explained
   - Packages: 🙋 explained
   - Aliases: 🙋 explained
@@ -104,11 +104,11 @@
   - Method with type arguments: 🙋 explained
   - Type erasure: 🙋 explained
   - Upper bound: 🙋 explained
-  - Multiple bounds `where`: u
-  - Covariant type args `out`: u
-  - Covariant type args `in`: u
-  - Input projection `in`: u
-  - Output ptojection `out`: u
+  - Multiple bounds `where`: 🖐️ used
+  - Covariant type args `out`: 🖐️ used
+  - Covariant type args `in`: 🖐️ used
+  - Input projection `in`: 🖐️ used
+  - Output ptojection `out`: 🖐️ used
   - Star-projection: 🎓 known
   - Reified functions: 🎓 known
 - Functional programming
@@ -118,14 +118,14 @@
   - Invoking lambdas: 🙋 explained
   - Functional Interfaces: 🙋 explained
   - Callable references: 🙋 explained
-  - `noinline`: e
-  - `crossinline`: e
-  - `with`: e
-  - `let`: e
-  - `run`: e
-  - `apply`: e
-  - `also`: e
-  - `takeif`: e
+  - `noinline`: 🙋 explained
+  - `crossinline`: 🙋 explained
+  - `with`: 🙋 explained
+  - `let`: 🙋 explained
+  - `run`: 🙋 explained
+  - `apply`: 🙋 explained
+  - `also`: 🙋 explained
+  - `takeif`: 🙋 explained
   - Custom scope functions: 👂 heard
 - Input\Output Streams
   - `readLine`: 🙋 explained
@@ -163,15 +163,15 @@
   - Synchronized collections: 🙋 explained
   - `runBlocking`: 🖐️ used
   - `launch`: 🖐️ used
-  - `async`: u
-  - `suspend` functions: u
+  - `async`: 🖐️ used
+  - `suspend` functions: 🖐️ used
   - Structures concurrency: 👂 heard
   - Cotoutine Context: 🎓 known
   - `Dispatcher`: 👂 heard
   - `Job`: 👂 heard
   - `Name`: 👂 heard
   - `CorutineExceptionHandler`: 👂 heard
-  - Coroutine Scope: u
+  - Coroutine Scope: 🖐️ used
   - Cancellation & Timeouts: 👂 heard
   - `withContext{...}` function: 👂 heard
   - `suspendCancellableCoroutine{...}` function: 👂 heard

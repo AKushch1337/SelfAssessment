@@ -7,7 +7,7 @@
   - Fragments: 🙋 explained
   - Intents: 🙋 explained
   - Views and ViewGroups: 🙋 explained
-  - Layouts e
+  - Layouts: 🙋 explained
   - LinearLayout: 🙋 explained
   - RelativeLayout: 🙋 explained
   - ConstraintLayout: 🙋 explained
@@ -32,7 +32,7 @@
   - Custom views: 🎓 known
   - Material Design components: 🙋 explained
   - Themes and styles: 🙋 explained
-  - Animations and transitions: e known
+  - Animations and transitions: e: 🎓 known
 - Intents and Broadcast Receivers
   - Explicit intents: 🙋 explained
   - Implicit intents: 🙋 explained
@@ -50,11 +50,11 @@
   - Content providers: 🎓 known
 - Networking
   - HttpURLConnection: 🎓 known
-  - OkHttp: e
-  - Retrofit: e
-  - JSON parsing e
-  - JSONObject: e
-  - Gson: e
+  - OkHttp: 🙋 explained
+  - Retrofit: 🙋 explained
+  - JSON parsing: 🙋 explained
+  - JSONObject: 🙋 explained
+  - Gson: 🙋 explained
   - AsyncTask: 🎓 known
   - Threading: 🎓 known
   - Background services: 🎓 known
@@ -71,70 +71,68 @@
   - Permission groups: 🙋 explained
   - Checking and requesting permissions: 🙋 explained
 - Multimedia
-  - Playing audio: u
-  - Playing video: u
+  - Playing audio: 🖐️ used
+  - Playing video: 🖐️ used
   - Recording audio: 🎓 known
   - Camera API: 👂 heard
-  - ExoPlayer: h
+  - ExoPlayer: 👂 heard
 - Location and Maps
-  - Google Maps API: k
-  - Location services: k
+  - Google Maps API: 🎓 known
+  - Location services: 🎓 known
   - Geocoding and reverse geocoding: 👂 heard
   - Geofencing: 👂 heard
 - Notifications
-  - Notification channels: k
-  - Building notifications: k
+  - Notification channels: 🎓 known
+  - Building notifications: 🎓 known
   - Notification actions: 👂 heard
   - Notification styles: 👂 heard
   - Heads-up notifications: 👂 heard
 - Firebase Integration
-  - Firebase Authentication: u
-  - Firebase Realtime Database: u
-  - Cloud Firestore: u
-  - Firebase Cloud Messaging: k
-  - Firebase Analytics: k
-  - Firebase Crashlytics: k
-  - Firebase Storage: u
+  - Firebase Authentication: 🖐️ used
+  - Firebase Realtime Database: 🖐️ used
+  - Cloud Firestore: 🖐️ used
+  - Firebase Cloud Messaging: 🎓 known
+  - Firebase Analytics: 🎓 known
+  - Firebase Crashlytics: 🎓 known
+  - Firebase Storage: 🖐️ used
 - Dependency Injection: 🙋 explained
 - Testing
   - Unit testing with JUnit: 🙋 explained
   - UI testing with Espresso: 🙋 explained
   - Mocking with Mockito: 🙋 explained
-  - Robolectric: h
+  - Robolectric: 👂 heard
 - Jetpack Libraries
   - ViewModel: 🙋 explained
   - LiveData: 🙋 explained
   - Data Binding: 👂 heard
   - Navigation component: 🙋 explained
   - Paging library: 👂 heard
-  - Room: u
+  - Room: 🖐️ used
   - CameraX: 👂 heard
 - Jetpack Compose
-  - State hoisting h
-  - CompositionLocal h
-  - remember e
-  - LaunchedEffect e
-  - Row e
-  - Column e
-  - Modifiers e
-  - LazyColumn e
-  - LazyRow e
-  - ConstraintLayout e
-  - Layout e
-  - Navigation e
-  - ViewModel e 
-  - Animation h
-  - Transition h
-  - Theming u
-  - Fonts e
-  - Generic Modifiers h 
-  - Gesture Modifiers h
+  - State hoisting: 👂 heard
+  - CompositionLocal: 👂 heard
+  - remember: 🙋 explained
+  - LaunchedEffect: 🙋 explained
+  - Row: 🙋 explained
+  - Column: 🙋 explained
+  - Modifiers: 🙋 explained
+  - LazyColumn: 🙋 explained
+  - LazyRow: 🙋 explained
+  - Layout: 🙋 explained
+  - Navigation: 🙋 explained
+  - Animation: 👂 heard
+  - Transition: 👂 heard
+  - Theming: 🖐️ used
+  - Fonts: 🙋 explained
+  - Generic Modifiers: 👂 heard
+  - Gesture Modifiers: 👂 heard
 - Advanced Topics
   - Architecture components
   - MVVM: 🙋 explained
-  - MVI: k
-  - MVP: k
+  - MVI: 🎓 known
+  - MVP: 🎓 known
   - ProGuard and R8: 👂 heard
   - Performance optimization: 👂 heard
-  - App bundles: h
+  - App bundles: 👂 heard
   - Custom ROMs and rooting: 👂 heard

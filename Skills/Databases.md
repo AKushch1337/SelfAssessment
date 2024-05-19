@@ -1,94 +1,94 @@
 ## Databases
 
 - Theory and concepts
-  - Data types e
-  - Performance tuning k
-  - Migrations k
-  - Schema versioning h
-  - Backup and recovery h
-  - Database scalability h
-  - Relational databases e
-  - Key-value store e
-  - Tuple store k
-  - Graph databases k
-  - Object databases k
-  - Column databases k
-  - Navigational databases k
-  - Hierarchical databases k
-  - In-memory databases k
-  - Inverted index k
-  - Data control language (DCL) h
-  - Data definition language (DDL) h
-  - Data manipulation language (DML) h
-  - Data query language (DQL) h
+  - Data types: 🙋 explained
+  - Performance tuning: 🎓 known
+  - Migrations: 🎓 known
+  - Schema versioning: 👂 heard
+  - Backup and recovery: 👂 heard
+  - Database scalability: 👂 heard
+  - Relational databases: 🙋 explained
+  - Key-value store: 🙋 explained
+  - Tuple store: 🎓 known
+  - Graph databases: 🎓 known
+  - Object databases: 🎓 known
+  - Column databases: 🎓 known
+  - Navigational databases: 🎓 known
+  - Hierarchical databases: 🎓 known
+  - In-memory databases: 🎓 known
+  - Inverted index: 🎓 known
+  - Data control language (DCL): 👂 heard
+  - Data definition language (DDL): 👂 heard
+  - Data manipulation language (DML): 👂 heard
+  - Data query language (DQL): 👂 heard
 - Relational
-  - Entity-Relationship Diagram e
-  - Normal forms e
-  - Indexing e
-  - Primary keys e
-  - Foreign keys e
-  - Transactions e
-  - Views e
-  - Subqueries e
-  - Stored procedures e
-  - SQL functions e
-  - Materialized views h
-  - Replications h
-  - Virtualization h
+  - Entity-Relationship Diagram: 🙋 explained
+  - Normal forms: 🙋 explained
+  - Indexing: 🙋 explained
+  - Primary keys: 🙋 explained
+  - Foreign keys: 🙋 explained
+  - Transactions: 🙋 explained
+  - Views: 🙋 explained
+  - Subqueries: 🙋 explained
+  - Stored procedures: 🙋 explained
+  - SQL functions: 🙋 explained
+  - Materialized views: 👂 heard
+  - Replications: 👂 heard
+  - Virtualization: 👂 heard
 - SQL
-  - `SELECT` e
-  - `INSERT` e
-  - `UPDATE` e
-  - `DELETE` e
-  - `LIMIT` e
-  - `OFFSET` e
-  - `ORDER BY` e
-  - `GROUP BY` e
-  - `HAVING` e
-  - `EXISTS` e
-  - `JOIN` e
-  - `INNER JOIN` e
-  - `LEFT JOIN` e
-  - `RIGHT JOIN` e
-  - `UNION` e
-  - `DISTINCT` e
-  - `WHERE` e
-  - `LIKE` e
-  - `IN` e
-  - `BETWEEN` e
-  - `CREATE TABLE` e
-  - `ALTER TABLE` e
-  - `DROP TABLE` e
-  - `PRIMARY KEY` e
-  - `FOREIGN KEY` e
-  - `CHECK` e
-  - `DEFAULT` e
-  - `INDEX` e
-  - `UNIQUE` e
-  - `GRANT` e
-  - `REVOKE` e
-  - `DENY` e
-  - `EXPLAIN` e
+  - `SELECT`: 🙋 explained
+  - `INSERT`: 🙋 explained
+  - `UPDATE`: 🙋 explained
+  - `DELETE`: 🙋 explained
+  - `LIMIT`: 🙋 explained
+  - `OFFSET`: 🙋 explained
+  - `ORDER BY`: 🙋 explained
+  - `GROUP BY`: 🙋 explained
+  - `HAVING`: 🙋 explained
+  - `EXISTS`: 🙋 explained
+  - `JOIN`: 🙋 explained
+  - `INNER JOIN`: 🙋 explained
+  - `LEFT JOIN`: 🙋 explained
+  - `RIGHT JOIN`: 🙋 explained
+  - `UNION`: 🙋 explained
+  - `DISTINCT`: 🙋 explained
+  - `WHERE`: 🙋 explained
+  - `LIKE`: 🙋 explained
+  - `IN`: 🙋 explained
+  - `BETWEEN`: 🙋 explained
+  - `CREATE TABLE`: 🙋 explained
+  - `ALTER TABLE`: 🙋 explained
+  - `DROP TABLE`: 🙋 explained
+  - `PRIMARY KEY`: 🙋 explained
+  - `FOREIGN KEY`: 🙋 explained
+  - `CHECK`: 🙋 explained
+  - `DEFAULT`: 🙋 explained
+  - `INDEX`: 🙋 explained
+  - `UNIQUE`: 🙋 explained
+  - `GRANT`: 🙋 explained
+  - `REVOKE`: 🙋 explained
+  - `DENY`: 🙋 explained
+  - `EXPLAIN`: 🙋 explained
 - Engines
-  - PostgreSQL h
-  - Oracle u
-  - MySQL h
-  - MariaDB h
-  - MS SQL Server h
-  - Redis h
-  - Rabbit h
-  - MongoDB h
-  - Memcached h
-  - Riak h
-  - DB2 h
-  - SQLite u
-  - DynamoDB h
-  - Firebase e
+  - PostgreSQL: 👂 heard
+  - Oracle: 🖐️ used
+  - MySQL: 👂 heard
+  - MariaDB: 👂 heard
+  - MS SQL Server: 👂 heard
+  - Redis: 👂 heard
+  - Rabbit: 👂 heard
+  - MongoDB: 👂 heard
+  - Memcached: 👂 heard
+  - Riak: 👂 heard
+  - DB2: 👂 heard
+  - SQLite: 🖐️ used
+  - DynamoDB: 👂 heard
+  - Firebase: 🙋 explained
 - Data engineering
-  - Data warehousing h
-  - Business intelligence h
-  - Big data h
-  - Data analysis h
-  - AI tools h
-  - Cloud databases h
-  - Data Visualization h
+  - Data warehousing: 👂 heard
+  - Business intelligence: 👂 heard
+  - Big data: 👂 heard
+  - Data analysis: 👂 heard
+  - AI tools: 👂 heard
+  - Cloud databases: 👂 heard
+  - Data Visualization: 👂 heard
