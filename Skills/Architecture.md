@@ -5,7 +5,7 @@
   - Components e
   - Directories e
   - GRASP k
-  - SOLID u
+  - SOLID k
   - GoF patterns k
   - CQS h
   - Leaking abstractions h
