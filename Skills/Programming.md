@@ -78,8 +78,8 @@
   - Structural typing: 🙋 explained
   - Explicit typing: 🙋 explained
   - Type inference: 🙋 explained
-  - Covariance: k
-  - Contravariance: k
+  - Covariance: 🎓 known
+  - Contravariance: 🎓 known
 - Functions
   - Signature: 🙋 explained
   - Argument: 🙋 explained
@@ -167,7 +167,7 @@
   - git: 🙋 explained
   - Github: 🙋 explained
   - Docker: 🙋 explained
-  - Kubernetes: k
+  - Kubernetes: 🎓 known
   - GCC: 🙋 explained
   - LLVM: 🙋 explained
 - Antipatterns

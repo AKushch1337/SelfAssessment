@@ -16,12 +16,12 @@
   - Reactive programming: 🎓 known
   - Functional-reactive (FRP): 👂 heard
   - Automata-based programming: 👂 heard
-  - Domain-specific languages: k
-  - Multi-paradigm programming: k
+  - Domain-specific languages: 🎓 known
+  - Multi-paradigm programming: 🎓 known
   - Metaprogramming: 👂 heard
-  - Actor model: k
-  - Lambda calculus: k
-  - Black box: k
+  - Actor model: 🎓 known
+  - Lambda calculus: 🎓 known
+  - Black box: 🎓 known
   - Information hiding: 👂 heard
   - Aspect-oriented programming: 👂 heard
   - Anemic domain model: 👂 heard

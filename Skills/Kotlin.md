@@ -93,8 +93,8 @@
   - Type check operators `is` & `!is`: 🙋 explained
   - Smart cast: 🙋 explained
   - `lazy`: 🙋 explained
-  - `observable`: k
-  - `vetoable`: k
+  - `observable`: 🎓 known
+  - `vetoable`: 🎓 known
   - Delegate to other property: 👂 heard
   - Delegate to map collection: 👂 heard
   - Custom delegates: 👂 heard
@@ -104,11 +104,11 @@
   - Method with type arguments: 🙋 explained
   - Type erasure: 🙋 explained
   - Upper bound: 🙋 explained
-  - Multiple bounds `where`: k
-  - Covariant type args `out`: k
-  - Covariant type args `in`: k
-  - Input projection `in`: k
-  - Output ptojection `out`: k
+  - Multiple bounds `where`: 🎓 known
+  - Covariant type args `out`: 🎓 known
+  - Covariant type args `in`: 🎓 known
+  - Input projection `in`: 🎓 known
+  - Output ptojection `out`: 🎓 known
   - Star-projection: 🎓 known
   - Reified functions: 🎓 known
 - Functional programming
@@ -172,14 +172,14 @@
   - `Name`: 👂 heard
   - `CorutineExceptionHandler`: 👂 heard
   - Coroutine Scope: 🖐️ used
-  - Cancellation & Timeouts: k
-  - `withContext{...}` function: k
+  - Cancellation & Timeouts: 🎓 known
+  - `withContext{...}` function: 🎓 known
   - `suspendCancellableCoroutine{...}` function: 👂 heard
   - Cold & Hot Flows: 👂 heard
-  - Intermidiate & terminal operators: k
-  - `flowOf`: k
-  - `flow{...}`: k
-  - `callbackFlow{...}`: k
-  - Flow cancellation: k
-  - Combining multiple flows: k
-  - `StateFlow` & `SharedFlow`: k
+  - Intermidiate & terminal operators: 🎓 known
+  - `flowOf`: 🎓 known
+  - `flow{...}`: 🎓 known
+  - `callbackFlow{...}`: 🎓 known
+  - Flow cancellation: 🎓 known
+  - Combining multiple flows: 🎓 known
+  - `StateFlow` & `SharedFlow`: 🎓 known
