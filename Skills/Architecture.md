@@ -7,16 +7,16 @@
   - GRASP: 🎓 known
   - SOLID: 🎓 known
   - GoF patterns: 🎓 known
-  - CQS: 👂 heard
-  - Leaking abstractions: 👂 heard
-  - Multiparadigm code: 👂 heard
+  - CQS: k
+  - Leaking abstractions: k
+  - Multiparadigm code: k
   - Contract programming: 👂 heard
   - Platform-agnostic: 👂 heard
   - Transport-agnostic: 👂 heard
   - Framework-agnostic: 👂 heard
-  - Code coverage: 👂 heard
-  - Cohesion: 👂 heard
-  - Coupling: 👂 heard
+  - Code coverage: k
+  - Cohesion: k
+  - Coupling: k
   - Cyclomatic complexity: 👂 heard
   - Reliability: 🙋 explained
   - Quality: 🙋 explained
